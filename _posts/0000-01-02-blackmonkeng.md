@@ -3,5 +3,5 @@ layout: slide
 title: "Welcome to our second slide!"
 ---
 This is a test.
-### *Do ~~not~~* ### adjust your set!
+**_Do ~~not~~adjust your set!_**
 Use the left arrow to go back!
